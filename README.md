@@ -23,7 +23,7 @@ cliking a review will show the content of the review**
 **clicking "Execute User Search" shows user that satisfied selected conditions
 clicking a user will show all the reviews that the user wrote，cliking a review will show the content of the review**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/cc4650e00a604542bfe4860004f408ef.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
-### 筛选review
+### review filter
 add conditions in review to screen reviews，(This user had 6 reviews，now it has one)
 It also can screen reviews for business
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d06f14113edd49feb0a73bc4c96b56e0.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
