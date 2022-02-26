@@ -10,30 +10,36 @@
 ###  Simple Business Search
 **choose main category and query for sub category,  choose sub category and query for attributes**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/fa479471b7ac4d10bcaa836521dd69eb.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
-**clicking "execute business search" shows businesses that satisfied selected conditions**
 
-**sub-category and attributes are optional**
+**clicking "execute business search" shows businesses that satisfied selected conditions， sub-category and attributes are optional**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/54ceabeab3ae4b548781153a814e240d.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
-**clicking a business in result，it will show all the reviews that the business recieved.
-cliking a review will show the content of the review**
+
+**clicking a business in result，it will show all the reviews that the business recieved  cliking a review will show the content of the review**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/451863353357441eac8fdc34d8efcd02.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+
 ###  Simple User Search
-**filter users based on yelp since, Review Count, friend count, rating，and votes**
+**search users based on yelp since, review count, friend count, rating，and votes**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b2bf6025d17d498f988c963e19f54f6b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 **clicking "Execute User Search" shows user that satisfied selected conditions
 clicking a user will show all the reviews that the user wrote，cliking a review will show the content of the review**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/cc4650e00a604542bfe4860004f408ef.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
-### review filter
-add conditions in review to screen reviews，(This user had 6 reviews，now it has one)
-It also can screen reviews for business
+
+### search for review
+add conditions in review to search reviews，(This user had 6 reviews，now it has one)
+Also can search reviews for business
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d06f14113edd49feb0a73bc4c96b56e0.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
 This business had many reviews，now it has six
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b233881b0cf342faa28a660c83b2fd32.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARDAxMDAxMTAxMQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 ### OR AND
 * business search and user search has AND or OR attriutes
 * business search: main category, sub category, attributes can be AND or OR relation
 * user search: the conditions for user search can be AND or OR
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/275f3cb351344c03b7ce9e210f5abe27.png)
+
+
 # Implementation
 ## JSON files --- source data
 business.json
